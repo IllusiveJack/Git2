@@ -7,6 +7,7 @@ namespace ConsoleApplication1
         static void Main()
         {
             Console.WriteLine("Git, hi Git!");
+            Console.WriteLine("There goes another line!");
         }
     }
 }
