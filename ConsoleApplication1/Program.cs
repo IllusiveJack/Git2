@@ -8,6 +8,12 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Git, hi Git!");
             Console.WriteLine("There goes another line!");
+
+            int a, b;
+            a = 10;
+            b = 2;
+
+            Console.WriteLine(a + b);
         }
     }
 }
